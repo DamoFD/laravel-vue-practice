@@ -11,4 +11,6 @@ const store = createStore({
     actions: {},
     mutations: {},
     modules: {}
-})
+});
+
+export default store;
